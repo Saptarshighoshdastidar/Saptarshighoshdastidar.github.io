@@ -1,3 +1,10 @@
+# SAPTARSHI GHOSH DASTIDAR
+[Mail](saptarshighoshdastidar2001@gmail.com)
+
+[linkedin](https://www.linkedin.com/in/saptarshi-ghosh-dastidar-a31139213)
+
+[github](https://github.com/Saptarshighoshdastidar)
+
 # Data Science
 
 #### Technical Skills: Python, SQL, AWS, Java, C
