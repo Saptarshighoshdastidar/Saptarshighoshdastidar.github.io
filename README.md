@@ -5,7 +5,7 @@
 
 [github](https://github.com/Saptarshighoshdastidar)
 
-# Data Science
+# DATA SCIENCE
 
 #### Technical Skills: Python, SQL, AWS, Java, C
 
